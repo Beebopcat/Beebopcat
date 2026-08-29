@@ -12,8 +12,8 @@ troubleshooting *is* the job.
 
 **CompTIA trifecta, in order:** A+ Core 1 → A+ Core 2 → Network+ → Security+
 
-Sequenced deliberately. Security+ alone from a weak networking base produces a certified
-candidate who can't pass a technical interview — so the foundation gets built first.
+My reasoning: Security+ assumes networking fluency it doesn't teach, so I'd rather hold the
+credential and the competence at the same time than one without the other.
 
 | Stage | Status |
 |---|---|
@@ -48,5 +48,5 @@ a game. Built before the career pivot; kept because shipping something that work
 
 ---
 
-<sub>Last updated **2026-08-29**. Updated weekly. If the date below is stale, hold me to it.</sub>
+<sub>Last updated **2026-08-29** · updated weekly — if that date is stale, hold me to it.</sub>
 
