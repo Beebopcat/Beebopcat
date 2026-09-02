@@ -33,16 +33,23 @@ Claude Desktop and the Hermes agent ecosystem.
 scoring library, a CLI, and a 248-test suite, delivered through 11 gated tasks
 (plan → advisor approval → gated execution → independent audit).
 
-### 🖥 Hermy Command Center — AI Operations Dashboard · [live demo ▶](https://caseyshingledecker.com/command-center.html)
+### 🖥 Kanto Command — AI Operations Console · [live demo ▶](https://caseyshingledecker.com/command-center.html)
 
-Mission-control interface for a local multi-agent ecosystem: agent roster & hierarchy, live activity
-feed, approval inbox for gated actions, task tracking, inference telemetry. One self-contained
-HTML/CSS/JS file (~100 KB, zero dependencies) supervising local runtimes (Ollama · LM Studio).
+Single pane of glass for a multi-agent ecosystem (Claude Desktop, a Hermes desktop agent, a Hermes
+cloud agent). **Kanto Command Ops** is a Next.js + Postgres message bus with a key-gated agent API
+(pull / push / blobs / heartbeat), a desktop bridge that mirrors the shared Obsidian vault both ways,
+and a private operator console — agent roster with live heartbeats, approval inbox for gated actions,
+mission cards, route feed, per-agent chat threads, and a study-badge tracker. The console is one
+self-contained HTML/CSS/JS file whose scene engine reacts to system state (a blocked task, a pending
+approval, a finished mission) with original chiptune audio. The public demo is the same file running
+on simulated data. *Fan project — Pokémon characters and names are trademarks of Nintendo / Creatures
+Inc. / GAME FREAK; not affiliated.*
 
-### 🧠 Personal AI Ecosystem *(in progress)*
+### 🧠 Personal AI Ecosystem
 
 Synchronized Obsidian knowledge vault shared by Claude Desktop, a Hermes cloud agent (Nous Portal),
-a local Hermes agent, and the Command Center — one memory, every agent. Model routing by
+a local Hermes agent, and Kanto Command Ops — one memory, every agent; task cards flow from the vault
+to the bus and results flow back. Model routing by
 cost-of-being-wrong: frontier orchestrator, independent advisor model, efficiency-class sub-agents.
 
 ---
