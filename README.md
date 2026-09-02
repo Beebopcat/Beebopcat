@@ -1,5 +1,3 @@
-<img src="casey-headshot.png" alt="Casey Shingledecker" width="140" align="right" style="border-radius:12px">
-
 # Casey Shingledecker
 
 **Technology Support · AI Systems & Automation · Cybersecurity (in progress) · Minnesota**
