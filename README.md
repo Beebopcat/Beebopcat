@@ -6,7 +6,7 @@ I build and operate multi-agent AI systems, keep technology working for the peop
 and I'm documenting a deliberate move into cybersecurity — in public, including the parts that don't
 go smoothly, because troubleshooting *is* the job.
 
-🌐 **Portfolio & live demo:** [casey-site-two.vercel.app](https://casey-site-two.vercel.app) ·
+🌐 **Portfolio & live demo:** [caseyshingledecker.com](https://caseyshingledecker.com) ·
 📬 shingledeckercasey@gmail.com · 🎬 [YouTube @metapod.harden](https://www.youtube.com/@metapod.harden)
 
 ---
@@ -33,7 +33,7 @@ Claude Desktop and the Hermes agent ecosystem.
 scoring library, a CLI, and a 248-test suite, delivered through 11 gated tasks
 (plan → advisor approval → gated execution → independent audit).
 
-### 🖥 Hermy Command Center — AI Operations Dashboard · [live demo ▶](https://casey-site-two.vercel.app/command-center.html)
+### 🖥 Hermy Command Center — AI Operations Dashboard · [live demo ▶](https://caseyshingledecker.com/command-center.html)
 
 Mission-control interface for a local multi-agent ecosystem: agent roster & hierarchy, live activity
 feed, approval inbox for gated actions, task tracking, inference telemetry. One self-contained
@@ -88,7 +88,7 @@ disk encryption · log analysis · TCP/IP · DNS · DHCP · physical security co
   Built before the career pivot; kept because shipping something that works counts.
 - **Creative engineering** — a decade of self-taught game development (*Welcome to Bloodmore*),
   frame animation, HitFilm Pro video/VFX, audio narration, and Photoshop/Illustrator brand graphics.
-  Reels on the [portfolio](https://casey-site-two.vercel.app/#creative).
+  Reels on the [portfolio](https://caseyshingledecker.com/#creative).
 
 ---
 
