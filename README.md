@@ -6,7 +6,7 @@ I turn complex ideas into focused projects, useful tools, and clear documentatio
 
 I enjoy connecting the pieces: defining a goal, organizing the work, testing the result, and refining it into something people can use and understand.
 
-[Portfolio](https://caseyshingledecker.com) · [Cybersecurity labs](https://github.com/Beebopcat/cybersecurity-journey-labs) · [Email](mailto:shingledeckercasey@gmail.com)
+[Portfolio](https://casey-portfolio-store.netlify.app/portfolio) · [Digital products](https://casey-portfolio-store.netlify.app/store) · [Creative archive](https://casey-portfolio-store.netlify.app/archive) · [Cybersecurity labs](https://github.com/Beebopcat/cybersecurity-journey-labs) · [Email](mailto:shingledeckercasey@gmail.com)
 
 ## Current work
 
@@ -26,7 +26,7 @@ An original offline Windows learning RPG connecting fantasy exploration with IT 
 
 ### AI-Agent Studio and private Agent Hub
 
-A production workflow spanning **27 specialized AI roles** across research, development, graphics, audio, documentation, customer-support preparation, and product work. I set the direction, divide large goals into focused assignments, establish review steps, and shape the combined result.
+A production workflow spanning specialized AI roles across research, development, graphics, audio, documentation, customer-support preparation, and product work. I set the direction, divide large goals into focused assignments, establish review steps, and shape the combined result.
 
 The private Hub brings project status, artifacts, spoken reports, and requests for input into one workspace. Current work includes phone notifications, a sequential audio queue, and clearer approval controls.
 
@@ -35,6 +35,12 @@ The private Hub brings project status, artifacts, spoken reports, and requests f
 A nine-file digital toolkit for organizing small freelance projects: three editable Word templates, three printable PDFs, a quick-start README, a license, and a contents list. The templates cover the project brief, assumptions and scope, and the first week of work.
 
 [View the product](https://metapodharden.itch.io/freelance-kickoff-mini-pack)
+
+### Indie Game Press Kit Template v1.0.1 — published
+
+An eight-file template download with two editable HTML pages, a shared CSS stylesheet and five supporting text documents. It includes a printable 36-item checklist and a field-by-field editing guide. Basic HTML/CSS editing is required; artwork and hosting are not included. The Lantern Vale sample content is fictional.
+
+[View the template — $5 minimum](https://metapodharden.itch.io/indie-game-press-kit-template)
 
 ## Technical learning and writing
 
@@ -53,6 +59,8 @@ A nine-file digital toolkit for organizing small freelance projects: three edita
 ## Creative archive
 
 Earlier projects remain part of the story. They show ideas explored, techniques learned, and foundations that continue to influence current work.
+
+[Browse the creative archive](https://casey-portfolio-store.netlify.app/archive) for curated project notes and media, with current work distinguished from earlier experiments.
 
 - **[Kanto Command](https://caseyshingledecker.com/project-kanto.html):** a fan-inspired interface and learning-game exploration combining world design, study tools, dashboards, and character-driven presentation.
 - **[The Tree](https://caseyshingledecker.com/project-tree.html):** an early workflow experiment in specialized roles, staged reviews, and shared project context.
