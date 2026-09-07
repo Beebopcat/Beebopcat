@@ -1,38 +1,47 @@
 # Casey Shingledecker
 
-**IT support · Technical operations · AI-assisted development · Cybersecurity in progress**
+**IT support · Technical operations · AI agent workflows · Cybersecurity · Creative development**
 
-I bring experience supporting school technology, troubleshooting accounts and devices, documenting investigations, and helping people use technology. I am building toward IT and cybersecurity roles through structured study, lab practice, and carefully documented projects.
+I turn complex ideas into focused projects, useful tools, and clear documentation. My background spans frontline technology support, operations, research, teaching, and creative production. Today I bring that experience together through cybersecurity study, AI workflows, digital products, and original game development.
+
+I enjoy connecting the pieces: defining a goal, organizing the work, testing the result, and refining it into something people can use and understand.
 
 [Portfolio](https://caseyshingledecker.com) · [Cybersecurity labs](https://github.com/Beebopcat/cybersecurity-journey-labs) · [Email](mailto:shingledeckercasey@gmail.com)
 
-## Current projects
+## Current work
 
-### Offline permissions simulator
+### Linux Permissions Simulator
 
-A small JavaScript learning component that models owner, group, and visitor access to fictional files. It accepts a bounded set of inspection and permission commands, supports alternate valid solutions, and checks whether the result satisfies an access policy.
+A focused JavaScript learning tool that models owner, group, and visitor access to fictional files. It explains access outcomes, supports multiple valid solutions, and safely handles unsupported input. Its **10 automated tests** cover permission decisions, owner/group precedence, reset isolation, and input validation.
 
-**Verified:** 10 automated tests pass, including malformed input rejection, owner/group precedence, alternate solutions, and reset isolation. Everything runs in memory; this is a simulation, not a real shell or virtual machine. Developed with AI assistance and documented review.
+The simulator runs entirely in memory, with a defined set of learning commands.
 
 [Source, examples, and tests](https://github.com/Beebopcat/cybersecurity-journey-labs/tree/main/projects/permissions-simulator)
 
-### Offline 3D cybersecurity learning RPG — prototype
+### Aether Learning RPG — in development
 
-An original Unreal Engine 5.8 project exploring how a fantasy world can support IT and cybersecurity learning through quests and practical exercises. The third-person template baseline has been launched, and a first courtyard map has been saved. World building, lesson integration, and standalone packaging are in progress.
+An original offline Windows learning RPG connecting fantasy exploration with IT and cybersecurity concepts. The Unreal Engine 5.8 prototype has advanced to a portable art-review build with an authored forest archive environment and **three passing native permission and save tests**. World development, character work, and the complete learning journey continue.
 
-### Private agent coordination dashboard — prototype
+[Project case study](https://caseyshingledecker.com/project-aether-learning-rpg.html)
 
-A local dashboard that brings together task assignments, recorded progress, and reviewed evidence for AI-assisted project work. The workflow uses bounded assignments and review checkpoints. The dashboard remains private; public project summaries contain only appropriate, verified material.
+### AI-Agent Studio and private Agent Hub
 
-## Published lab work
+A production workflow spanning **27 specialized AI roles** across research, development, graphics, audio, documentation, customer-support preparation, and product work. I set the direction, divide large goals into focused assignments, establish review steps, and shape the combined result.
 
-- [Diagnosing an application failure from Windows Event Logs](https://github.com/Beebopcat/cybersecurity-journey-labs/tree/main/labs/01-diagnosing-an-application-failure-from-event-logs) — Event Viewer, Windows Error Reporting, PowerShell, and root-cause analysis.
+The private Hub brings project status, artifacts, spoken reports, and requests for input into one workspace. Current work includes phone notifications, a sequential audio queue, and clearer approval controls.
 
-Coursework and additional practice are ongoing. New writeups are added as their evidence is reviewed.
+### Freelance Kickoff Mini-Pack — published
 
-## Study plan
+A nine-file digital toolkit for organizing small freelance projects: three editable Word templates, three printable PDFs, a quick-start README, a license, and a contents list. The templates cover the project brief, assumptions and scope, and the first week of work.
 
-| Area | Status |
+[View the product](https://metapodharden.itch.io/freelance-kickoff-mini-pack)
+
+## Technical learning and writing
+
+- [Windows Event Logs investigation](https://github.com/Beebopcat/cybersecurity-journey-labs/tree/main/labs/01-diagnosing-an-application-failure-from-event-logs): application-failure analysis using Event Viewer, Windows Error Reporting, PowerShell, and root-cause documentation.
+- Ongoing practice in networking, access control, encryption, vulnerability assessment, and log analysis through employer-sponsored cybersecurity training.
+
+| Study area | Status |
 | --- | --- |
 | Target-sponsored Chegg Skills cybersecurity bootcamp | In progress |
 | CompTIA A+ Core 1 | In progress |
@@ -41,15 +50,23 @@ Coursework and additional practice are ongoing. New writeups are added as their 
 | CompTIA Security+ | Planned |
 | CompTIA CySA+ | Planned |
 
-## Background
+## Creative archive
 
-- **Technology Support Specialist, District 271:** supported staff and students with hardware, software, accounts, Google Workspace, and Microsoft 365.
-- **Target technology and electronics:** customer-facing troubleshooting and technology consultation.
+Earlier projects remain part of the story. They show ideas explored, techniques learned, and foundations that continue to influence current work.
+
+- **[Kanto Command](https://caseyshingledecker.com/project-kanto.html):** a fan-inspired interface and learning-game exploration combining world design, study tools, dashboards, and character-driven presentation.
+- **[The Tree](https://caseyshingledecker.com/project-tree.html):** an early workflow experiment in specialized roles, staged reviews, and shared project context.
+- **[Natural-Dialogue](https://github.com/Beebopcat/Natural-Dialogue):** an earlier Windows game-dialogue tool exploring automated speech and reduced production work.
+- **[Creative production](https://www.youtube.com/@metapod.harden):** original game concepts, animation, video editing, narration, audio, and design.
+
+## Experience that shapes the work
+
+- **Technology Support Specialist, District 271:** hardware, software, accounts, Google Workspace, and Microsoft 365 support for staff and students.
+- **Target technology and electronics:** customer technology consultation, troubleshooting, and practical product guidance.
 - **Research and operations:** public-records investigation, documentation, data quality, and school operations leadership.
-- **Teaching and communication:** operated an English tutoring practice in Tokyo.
+- **Teaching and communication:** an independent English tutoring practice in Tokyo, alongside extensive teaching and cross-cultural experience.
 
-Earlier creative and technical work includes [Natural-Dialogue](https://github.com/Beebopcat/Natural-Dialogue) and [video work](https://www.youtube.com/@metapod.harden).
+Based in Minnesota. Interested in IT support, service desk, technical operations, cybersecurity, AI operations, project coordination, and creative technology opportunities.
 
-Based in Minnesota. Interested in IT support, service desk, desktop support, technical operations, and junior security opportunities.
+*Updated September 7, 2026.*
 
-*Updated September 6, 2026.*
