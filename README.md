@@ -24,6 +24,14 @@ An original offline Windows learning RPG connecting fantasy exploration with IT 
 
 [Project case study](https://caseyshingledecker.com/project-aether-learning-rpg.html)
 
+### Between Worlds — personal learning-game concept
+
+[![AI-assisted fan concept of a glowing blue portal connecting two fantasy towns, with a traveler in the foreground.](https://casey-portfolio-store.netlify.app/archive-media/learning-portal-concept.webp)](https://casey-portfolio-store.netlify.app/archive/bright-portal-concept/)
+
+I’m exploring a portal between two fantasy worlds for a personal-use learning game in development with Unreal Engine 5. This AI-assisted fan concept illustrates the visual direction; it is not a gameplay screenshot or a finished game. This independent fan project has no affiliation with or endorsement from the referenced franchises.
+
+[Explore the concept gallery](https://casey-portfolio-store.netlify.app/archive/bright-portal-concept/)
+
 ### AI-Agent Studio and private Agent Hub
 
 A production workflow spanning specialized AI roles across research, development, graphics, audio, documentation, customer-support preparation, and product work. I set the direction, divide large goals into focused assignments, establish review steps, and shape the combined result.
