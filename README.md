@@ -6,7 +6,20 @@ I turn complex ideas into focused projects, useful tools, and clear documentatio
 
 I enjoy connecting the pieces: defining a goal, organizing the work, testing the result, and refining it into something people can use and understand.
 
-[Portfolio](https://casey-portfolio-store.netlify.app/portfolio) · [Digital products](https://casey-portfolio-store.netlify.app/store) · [Creative archive](https://casey-portfolio-store.netlify.app/archive) · [Cybersecurity labs](https://github.com/Beebopcat/cybersecurity-journey-labs) · [Email](mailto:132234344+Beebopcat@users.noreply.github.com)
+[Live demos](https://beebopcat.github.io/public-demos/) · [Portfolio](https://casey-portfolio-store.netlify.app/portfolio) · [Digital products](https://casey-portfolio-store.netlify.app/store) · [Creative archive](https://casey-portfolio-store.netlify.app/archive) · [Cybersecurity labs](https://github.com/Beebopcat/cybersecurity-journey-labs) · [Email](mailto:132234344+Beebopcat@users.noreply.github.com)
+
+## Live demonstrations (sample data only)
+
+Public browser demos use **fictional sample data** — not live agents, private vaults, or personal task feeds.
+
+| Demo | Link |
+| --- | --- |
+| **The Town** (featured) — sample multi-agent studio showcase | [Open](https://beebopcat.github.io/public-demos/town/) |
+| Permissions simulator — interactive learning sample | [Open](https://beebopcat.github.io/public-demos/permissions/) |
+| Natural Dialogue — sample NPC line + browser speech stand-in | [Open](https://beebopcat.github.io/public-demos/dialogue/) |
+| Demo hub | [Open](https://beebopcat.github.io/public-demos/) |
+
+**The Town** is in active development with **Claude Code** and **ChatGPT 6 Astra**. The public page is a demonstration with fictional residents and missions, not a production control plane. Source: [Beebopcat/public-demos](https://github.com/Beebopcat/public-demos).
 
 ## Current work
 
@@ -16,11 +29,11 @@ A focused JavaScript learning tool that models owner, group, and visitor access 
 
 The simulator runs entirely in memory, with a defined set of learning commands.
 
-[Source, examples, and tests](https://github.com/Beebopcat/cybersecurity-journey-labs/tree/main/projects/permissions-simulator)
+[Try the browser sample](https://beebopcat.github.io/public-demos/permissions/) · [Source, examples, and tests](https://github.com/Beebopcat/cybersecurity-journey-labs/tree/main/projects/permissions-simulator)
 
 ### Aether Learning RPG — in development
 
-An original offline Windows learning RPG connecting fantasy exploration with IT and cybersecurity concepts. The Unreal Engine 5.8 prototype has advanced to a portable art-review build with an authored forest archive environment and **three passing native permission and save tests**. World development, character work, and the complete learning journey continue.
+An original offline Windows learning RPG connecting fantasy exploration with IT and cybersecurity concepts. The Unreal Engine 5.8 prototype has advanced to a portable art-review build with an authored forest archive environment and **three passing native permission and save tests**. World development, character work, and the complete learning journey continue. Full engine source stays private until the chapter is playable; public case study and demos link above.
 
 [Project case study](https://caseyshingledecker.com/project-aether-learning-rpg.html)
 
@@ -36,7 +49,7 @@ I’m exploring a portal between two fantasy worlds for a personal-use learning 
 
 A production workflow spanning specialized AI roles across research, development, graphics, audio, documentation, customer-support preparation, and product work. I set the direction, divide large goals into focused assignments, establish review steps, and shape the combined result.
 
-The private Hub brings project status, artifacts, spoken reports, and requests for input into one workspace. Current work includes phone notifications, a sequential audio queue, and clearer approval controls.
+The private Hub stays private. For a public-safe look at the multi-agent studio idea, see **[The Town sample demo](https://beebopcat.github.io/public-demos/town/)**.
 
 ### Freelance Kickoff Mini-Pack — published
 
@@ -72,7 +85,7 @@ Earlier projects remain part of the story. They show ideas explored, techniques 
 
 - **[Kanto Command](https://caseyshingledecker.com/project-kanto.html):** a fan-inspired interface and learning-game exploration combining world design, study tools, dashboards, and character-driven presentation.
 - **[The Tree](https://caseyshingledecker.com/project-tree.html):** an early workflow experiment in specialized roles, staged reviews, and shared project context.
-- **[Natural-Dialogue](https://github.com/Beebopcat/Natural-Dialogue):** an earlier Windows game-dialogue tool exploring automated speech and reduced production work.
+- **[Natural-Dialogue](https://github.com/Beebopcat/Natural-Dialogue):** an earlier Windows game-dialogue tool exploring automated speech and reduced production work. [Browser sample](https://beebopcat.github.io/public-demos/dialogue/).
 - **[Creative production](https://www.youtube.com/@metapod.harden):** original game concepts, animation, video editing, narration, audio, and design.
 
 ## Experience that shapes the work
@@ -84,5 +97,4 @@ Earlier projects remain part of the story. They show ideas explored, techniques 
 
 Based in Minnesota. Interested in IT support, service desk, technical operations, cybersecurity, AI operations, project coordination, and creative technology opportunities.
 
-*Updated September 7, 2026.*
-
+*Updated September 19, 2026.*
