@@ -2,99 +2,78 @@
 
 **IT support · Technical operations · AI agent workflows · Cybersecurity · Creative development**
 
-I turn complex ideas into focused projects, useful tools, and clear documentation. My background spans frontline technology support, operations, research, teaching, and creative production. Today I bring that experience together through cybersecurity study, AI workflows, digital products, and original game development.
+This profile is an index to my source examples, project evidence, and published work. Project galleries and career information have one home on my website.
 
-I enjoy connecting the pieces: defining a goal, organizing the work, testing the result, and refining it into something people can use and understand.
-
-[Live demos](https://beebopcat.github.io/public-demos/) · [Portfolio](https://casey-portfolio-store.netlify.app/portfolio) · [Digital products](https://casey-portfolio-store.netlify.app/store) · [Creative archive](https://casey-portfolio-store.netlify.app/archive) · [Cybersecurity labs](https://github.com/Beebopcat/cybersecurity-journey-labs) · [Email](mailto:132234344+Beebopcat@users.noreply.github.com)
+[Project index](https://caseyshingledecker.com/#portfolio) · [Current work](#current-work) · [Technical learning](#technical-learning-and-writing) · [Creative archive](#creative-archive) · [Contact](https://caseyshingledecker.com/#contact)
 
 ## Live demonstrations (sample data only)
 
-Public browser demos use **fictional sample data** — not live agents, private vaults, or personal task feeds.
+These browser demos use **fictional sample data**, not live agents, private vaults, or personal task feeds. The Town is a multi-agent studio demonstration developed with Claude Code and ChatGPT 6 Astra; it is not a production control plane.
 
-| Demo | Link |
+| Demo | Open |
 | --- | --- |
-| **The Town** (featured) — sample multi-agent studio showcase | [Open](https://beebopcat.github.io/public-demos/town/) |
-| Permissions simulator — interactive learning sample | [Open](https://beebopcat.github.io/public-demos/permissions/) |
-| Natural Dialogue — sample NPC line + browser speech stand-in | [Open](https://beebopcat.github.io/public-demos/dialogue/) |
-| Demo hub | [Open](https://beebopcat.github.io/public-demos/) |
+| The Town — sample residents and missions | [Studio demo](https://beebopcat.github.io/public-demos/town/) |
+| Linux Permissions Simulator | [Permissions demo](https://beebopcat.github.io/public-demos/permissions/) |
+| Natural Dialogue — NPC line and browser speech stand-in | [Dialogue demo](https://beebopcat.github.io/public-demos/dialogue/) |
 
-**The Town** is in active development with **Claude Code** and **ChatGPT 6 Astra**. The public page is a demonstration with fictional residents and missions, not a production control plane. Source: [Beebopcat/public-demos](https://github.com/Beebopcat/public-demos).
+[Demo hub](https://beebopcat.github.io/public-demos/) · [Demo source repository](https://github.com/Beebopcat/public-demos)
 
 ## Current work
 
+| Project | Canonical project page | Engineering record |
+| --- | --- | --- |
+| Godot–Blender Duskwood | [Scene and prototype clips](https://caseyshingledecker.com/#duskwood) | Native source remains private |
+| Blender asset-building agents with Claude | [Describe, Create, Verify, Teach](https://caseyshingledecker.com/#blender-agents) | [Verification and local-model results](PROJECTS.md#blender-toolchain-and-local-agent-evaluation) |
+| Rytmik Ultimate music-making agents with Claude | [Workflow and audio result](https://caseyshingledecker.com/#rytmik-agents) | [Connector test record](PROJECTS.md#rytmik-ultimate-connector) |
+| Godot pipeline proof | [Runnable source example](examples/godot-pipeline-proof/) | Run instructions and smoke-test scope are beside the source |
+| RPG Maker MV tool bridge | [Public engineering note](PROJECTS.md#rpg-maker-mv-tool-bridge) | Licensed engine files are not redistributed |
+
 ### Linux Permissions Simulator
 
-A focused JavaScript learning tool that models owner, group, and visitor access to fictional files. It explains access outcomes, supports multiple valid solutions, and safely handles unsupported input. Its **10 automated tests** cover permission decisions, owner/group precedence, reset isolation, and input validation.
-
-The simulator runs entirely in memory, with a defined set of learning commands.
-
-[Try the browser sample](https://beebopcat.github.io/public-demos/permissions/) · [Source, examples, and tests](https://github.com/Beebopcat/cybersecurity-journey-labs/tree/main/projects/permissions-simulator)
+[Source, examples, and tests](https://github.com/Beebopcat/cybersecurity-journey-labs/tree/main/projects/permissions-simulator) document the in-memory simulator and its ten automated tests. The playable sample is in the demo table above.
 
 ### Aether Learning RPG — in development
 
-An original offline Windows learning RPG connecting fantasy exploration with IT and cybersecurity concepts. The Unreal Engine 5.8 prototype has advanced to a portable art-review build with an authored forest archive environment and **three passing native permission and save tests**. World development, character work, and the complete learning journey continue. Full engine source stays private until the chapter is playable; public case study and demos link above.
-
-[Project case study](https://caseyshingledecker.com/project-aether-learning-rpg.html)
+[Project case study](https://caseyshingledecker.com/#aether). The earlier Unreal Engine 5.8 milestone was a portable art-review build with an authored forest archive and three passing native permission/save tests. That milestone is distinct from a finished learning journey; full engine source remains private.
 
 ### Between Worlds — personal learning-game concept
 
-[![AI-assisted fan concept of a glowing blue portal connecting two fantasy towns, with a traveler in the foreground.](https://casey-portfolio-store.netlify.app/archive-media/learning-portal-concept.webp)](https://casey-portfolio-store.netlify.app/archive/bright-portal-concept/)
-
-I’m exploring a portal between two fantasy worlds for a personal-use learning game in development with Unreal Engine 5. This AI-assisted fan concept illustrates the visual direction; it is not a gameplay screenshot or a finished game. This independent fan project has no affiliation with or endorsement from the referenced franchises.
-
-[Explore the concept gallery](https://casey-portfolio-store.netlify.app/archive/bright-portal-concept/)
+[Explore the concept gallery](https://caseyshingledecker.com/#concept). AI-assisted fan concept art shows a visual direction, not gameplay or a finished game. This independent personal-use project has no affiliation with or endorsement from the referenced franchises. The gallery owns the artwork; it is not copied into this repository.
 
 ### AI-Agent Studio and private Agent Hub
 
-A production workflow spanning specialized AI roles across research, development, graphics, audio, documentation, customer-support preparation, and product work. I set the direction, divide large goals into focused assignments, establish review steps, and shape the combined result.
+[Workflow design notes](https://caseyshingledecker.com/#ops-notes) describe how roles and review steps fit together. The private Hub stays private; the fictional Town demonstration is linked once above.
 
-The private Hub stays private. For a public-safe look at the multi-agent studio idea, see **[The Town sample demo](https://beebopcat.github.io/public-demos/town/)**.
+### Digital products
 
-### Freelance Kickoff Mini-Pack — published
+Product descriptions, current versions, prices, and usage terms are maintained on their individual listings. Template examples are fictional; blank commercial packs are not redistributed here.
 
-A nine-file digital toolkit for organizing small freelance projects: three editable Word templates, three printable PDFs, a quick-start README, a license, and a contents list. The templates cover the project brief, assumptions and scope, and the first week of work.
+| Published work | Listing |
+| --- | --- |
+| Scope Guard Mini-Pack | [Editable project worksheets](https://metapodharden.itch.io/scope-guard-mini-pack) |
+| Indie Game Press Kit Template | [HTML/CSS template and launch checklist](https://metapodharden.itch.io/indie-game-press-kit-template) |
+| Studio Role Icons | [Three-palette illustration pack](https://metapodharden.itch.io/studio-role-icons-three-palettes) — Created with Grok; curated and packaged by Casey Shingledecker |
+| Cozy UI Chimes | [Interface sound pack](https://metapodharden.itch.io/cozy-ui-chimes) |
 
-[View the product](https://metapodharden.itch.io/freelance-kickoff-mini-pack)
-
-### Indie Game Press Kit Template v1.0.1 — published
-
-An eight-file template download with two editable HTML pages, a shared CSS stylesheet and five supporting text documents. It includes a printable 36-item checklist and a field-by-field editing guide. Basic HTML/CSS editing is required; artwork and hosting are not included. The Lantern Vale sample content is fictional.
-
-[View the template — $5 minimum](https://metapodharden.itch.io/indie-game-press-kit-template)
+**Historical record — Freelance Kickoff Mini-Pack:** the earlier nine-file toolkit contained three editable Word templates, three PDFs, a quick-start README, a license, and a contents list covering a project brief, scope, and first-week planning. Its former download page is unavailable. It is not the Scope Guard product listed above.
 
 ## Technical learning and writing
 
-- [Windows Event Logs investigation](https://github.com/Beebopcat/cybersecurity-journey-labs/tree/main/labs/01-diagnosing-an-application-failure-from-event-logs): application-failure analysis using Event Viewer, Windows Error Reporting, PowerShell, and root-cause documentation.
-- Ongoing practice in networking, access control, encryption, vulnerability assessment, and log analysis through employer-sponsored cybersecurity training.
-
-| Study area | Status |
-| --- | --- |
-| Target-sponsored Chegg Skills cybersecurity bootcamp | In progress |
-| CompTIA A+ Core 1 | In progress |
-| CompTIA A+ Core 2 | Planned next |
-| CompTIA Network+ | Planned |
-| CompTIA Security+ | Planned |
-| CompTIA CySA+ | Planned |
+- [Cybersecurity Journey Labs](https://github.com/Beebopcat/cybersecurity-journey-labs) is the source index for learning exercises.
+- [Windows Event Logs investigation](https://github.com/Beebopcat/cybersecurity-journey-labs/tree/main/labs/01-diagnosing-an-application-failure-from-event-logs) records application-failure analysis with Event Viewer, Windows Error Reporting, PowerShell, and root-cause documentation.
+- [Education and credentials](https://caseyshingledecker.com/#education) points to the canonical study record, with earned credentials and planned study distinguished.
 
 ## Creative archive
 
-Earlier projects remain part of the story. They show ideas explored, techniques learned, and foundations that continue to influence current work.
+[Studio archive](https://caseyshingledecker.com/#archive) collects earlier project media.
 
-[Browse the creative archive](https://casey-portfolio-store.netlify.app/archive) for curated project notes and media, with current work distinguished from earlier experiments.
-
-- **[Kanto Command](https://caseyshingledecker.com/project-kanto.html):** a fan-inspired interface and learning-game exploration combining world design, study tools, dashboards, and character-driven presentation.
-- **[The Tree](https://caseyshingledecker.com/project-tree.html):** an early workflow experiment in specialized roles, staged reviews, and shared project context.
-- **[Natural-Dialogue](https://github.com/Beebopcat/Natural-Dialogue):** an earlier Windows game-dialogue tool exploring automated speech and reduced production work. [Browser sample](https://beebopcat.github.io/public-demos/dialogue/).
-- **[Creative production](https://www.youtube.com/@metapod.harden):** original game concepts, animation, video editing, narration, audio, and design.
+- [Kanto Command](https://caseyshingledecker.com/#kanto): archived fan-inspired interface and learning-game work.
+- **The Tree:** an early experiment in specialized roles, staged reviews, and shared project context. Its standalone page has been retired; this historical record is retained.
+- [Natural-Dialogue](https://github.com/Beebopcat/Natural-Dialogue): earlier Windows speech-tool source. Its separate browser stand-in is in the demo table.
+- [Creative production channel](https://www.youtube.com/@metapod.harden): video, animation, narration, audio, and design work.
 
 ## Experience that shapes the work
 
-- **Technology Support Specialist, District 271:** hardware, software, accounts, Google Workspace, and Microsoft 365 support for staff and students.
-- **Target technology and electronics:** customer technology consultation, troubleshooting, and practical product guidance.
-- **Research and operations:** public-records investigation, documentation, data quality, and school operations leadership.
-- **Teaching and communication:** an independent English tutoring practice in Tokyo, alongside extensive teaching and cross-cultural experience.
+[Public resume](https://caseyshingledecker.com/#resume) is the career record for technology support, research and operations, and teaching. The profile links to it instead of maintaining a second employment history.
 
-Based in Minnesota. Interested in IT support, service desk, technical operations, cybersecurity, AI operations, project coordination, and creative technology opportunities.
-
-*Updated September 19, 2026.*
+*Updated September 28, 2026.*
