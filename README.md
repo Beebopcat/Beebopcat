@@ -27,6 +27,11 @@ These browser demos use **fictional sample data**, not live agents, private vaul
 | Rytmik Ultimate music-making agents with Claude | [Workflow and audio result](https://caseyshingledecker.com/#rytmik-agents) | [Connector test record](PROJECTS.md#rytmik-ultimate-connector) |
 | Godot pipeline proof | [Runnable source example](examples/godot-pipeline-proof/) | Run instructions and smoke-test scope are beside the source |
 | RPG Maker MV tool bridge | [Public engineering note](PROJECTS.md#rpg-maker-mv-tool-bridge) | Licensed engine files are not redistributed |
+| Cursor Studio — Windows 11 cursor sets | [Source, cursors, and installer](https://github.com/Beebopcat/cursor-studio) | Structural validator for every cursor file; installer self-test |
+
+### Cursor Studio
+
+[Cursor Studio](https://github.com/Beebopcat/cursor-studio) is a Python generator that renders 24 themed Windows 11 cursor sets in four styles each. Each style covers all 17 pointer roles as static `.cur` and animated `.ani` files: 3,264 files in total. The repository also includes a dark-mode PowerShell installer that needs no admin rights, a browser selector with a live hover test, and hand-off documentation. The included validator checks the structure of every cursor file, and the installer self-test exercises all 192 installs against a stand-in registry. The cursors have not yet been tested on a live Windows desktop. All artwork is drawn by code; it is an independent fan project with no affiliation with the referenced franchises.
 
 ### Linux Permissions Simulator
 
@@ -61,6 +66,7 @@ Product descriptions, current versions, prices, and usage terms are maintained o
 
 - [Cybersecurity Journey Labs](https://github.com/Beebopcat/cybersecurity-journey-labs) is the source index for learning exercises.
 - [Windows Event Logs investigation](https://github.com/Beebopcat/cybersecurity-journey-labs/tree/main/labs/01-diagnosing-an-application-failure-from-event-logs) records application-failure analysis with Event Viewer, Windows Error Reporting, PowerShell, and root-cause documentation.
+- **Chegg Skills Cybersecurity Professional Certificate:** completed October 19, 2026 (program dates February 11 to October 19, 2026). The Target-sponsored program covered the Network Administrator and Cybersecurity Analyst track.
 - [Education and credentials](https://caseyshingledecker.com/#education) points to the canonical study record, with earned credentials and planned study distinguished.
 
 ## Creative archive
@@ -74,6 +80,6 @@ Product descriptions, current versions, prices, and usage terms are maintained o
 
 ## Experience that shapes the work
 
-[Public resume](https://caseyshingledecker.com/#resume) is the career record for technology support, research and operations, and teaching. The profile links to it instead of maintaining a second employment history.
+[Public resume](https://caseyshingledecker.com/#resume) is the career record for technology support, research and operations, and teaching. The profile links to it instead of maintaining a second employment history. Latest credential: Chegg Skills Cybersecurity Professional Certificate (October 2026).
 
-*Updated September 28, 2026.*
+*Updated October 20, 2026.*
