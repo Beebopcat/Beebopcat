@@ -2,21 +2,58 @@
 
 **IT support · Technical operations · AI agent workflows · Cybersecurity · Creative development**
 
-This profile is an index to my source examples, project evidence, and published work. Project galleries and career information have one home on my website.
+I build practical tools, troubleshoot problems, and turn what I learn into working projects.
 
-[Project index](https://caseyshingledecker.com/#portfolio) · [Current work](#current-work) · [Technical learning](#technical-learning-and-writing) · [Creative archive](#creative-archive) · [Contact](https://caseyshingledecker.com/#contact)
+My background includes Tier 1 and Tier 2 help desk support in K–12 education, Microsoft 365 and Google Workspace administration, account provisioning, device configuration, and secure assessment workstations, plus technical customer service, operations leadership, public-records research, and teaching in Japan. I completed the Target-sponsored Chegg Skills Cybersecurity Bootcamp (Network Administrator & Cybersecurity Analyst track); my training covers network security, incident response, vulnerability scanning, Windows and Linux log analysis, identity and access controls, and data protection. CompTIA A+, Network+, and Security+ are my certification study path.
 
-## Live demonstrations (sample data only)
+Alongside that work, I develop Windows desktop applications, OCR and text-to-speech tools, AI operations workflows, and C# / Unity game systems using AI-assisted development. Most projects are at different stages of development; their verified capabilities and remaining work are documented on my website and GitHub. I'm interested in opportunities in technical operations, IT support, cybersecurity operations, and AI/automation, with a preference for remote work.
 
-These browser demos use **fictional sample data**, not live agents, private vaults, or personal task feeds. The Town is a multi-agent studio demonstration developed with Claude Code and ChatGPT 6 Astra; it is not a production control plane.
+[Portfolio](https://caseyshingledecker.com/) · [LinkedIn](https://www.linkedin.com/in/caseyshingledecker/) · [GitHub](https://github.com/Beebopcat/) · [Detailed project list](PROJECTS.md)
 
-| Demo | Open |
-| --- | --- |
-| The Town — sample residents and missions | [Studio demo](https://beebopcat.github.io/public-demos/town/) |
-| Linux Permissions Simulator | [Permissions demo](https://beebopcat.github.io/public-demos/permissions/) |
-| Natural Dialogue — NPC line and browser speech stand-in | [Dialogue demo](https://beebopcat.github.io/public-demos/dialogue/) |
+**Certification:** Chegg Skills Cybersecurity Professional Certificate, completed October 19, 2026 (program dates February 11 to October 19, 2026). The Target-sponsored program covered the Network Administrator and Cybersecurity Analyst track.
 
-[Demo hub](https://beebopcat.github.io/public-demos/) · [Demo source repository](https://github.com/Beebopcat/public-demos)
+## Featured projects
+
+| | | |
+| :---: | :---: | :---: |
+| <a href="https://beebopcat.github.io/cursor-studio/"><img src="https://raw.githubusercontent.com/Beebopcat/cursor-studio/main/docs/media/01.webp" width="240" alt="Cursor Studio screenshot"></a><br><b>Cursor Studio</b><br>24 themed Windows cursor sets, with a browser selector you can try live.<br>[Demo](https://beebopcat.github.io/cursor-studio/) · [Source](https://github.com/Beebopcat/cursor-studio) | <a href="https://beebopcat.github.io/public-demos/town/"><img src="https://raw.githubusercontent.com/Beebopcat/public-demos/main/docs/media/agent-town/01.webp" width="240" alt="The Town (public-demos) screenshot"></a><br><b>The Town (public-demos)</b><br>A public, fictional sample of a multi-agent studio town.<br>[Demo](https://beebopcat.github.io/public-demos/town/) · [Source](https://github.com/Beebopcat/public-demos) | <a href="https://beebopcat.github.io/public-demos/permissions/"><img src="https://raw.githubusercontent.com/Beebopcat/public-demos/main/docs/media/permissions/01.webp" width="240" alt="Permissions Lab (public-demos) screenshot"></a><br><b>Permissions Lab (public-demos)</b><br>Practice Linux file permissions in a safe, interactive simulator.<br>[Demo](https://beebopcat.github.io/public-demos/permissions/) · [Source](https://github.com/Beebopcat/public-demos) |
+| <a href="https://caseyshingledecker.com/demos/top-secret/lantern-gate/"><img src="https://raw.githubusercontent.com/Beebopcat/lantern-gate/main/docs/media/01.webp" width="240" alt="The Nine Marches screenshot"></a><br><b>The Nine Marches</b><br>Explore the Nine Marches, build a life and face the horrors beyond the lanterns.<br>[Demo](https://caseyshingledecker.com/demos/top-secret/lantern-gate/) · [Source](https://github.com/Beebopcat/lantern-gate) | <a href="https://beebopcat.github.io/thirteenth-lantern/"><img src="https://raw.githubusercontent.com/Beebopcat/thirteenth-lantern/main/docs/media/01.webp" width="240" alt="Thirteenth Lantern screenshot"></a><br><b>Thirteenth Lantern</b><br>A town that calls disappearance kindness. 601 routes lead to twelve endings.<br>[Demo](https://beebopcat.github.io/thirteenth-lantern/) · [Source](https://github.com/Beebopcat/thirteenth-lantern) | <a href="https://beebopcat.github.io/aetherglass/"><img src="https://raw.githubusercontent.com/Beebopcat/aetherglass/main/docs/media/01.webp" width="240" alt="Aetherglass screenshot"></a><br><b>Aetherglass</b><br>An interactive hub for the restored realm: travel, talk and play.<br>[Demo](https://beebopcat.github.io/aetherglass/) · [Source](https://github.com/Beebopcat/aetherglass) |
+| <a href="https://beebopcat.github.io/stolen-names/"><img src="https://raw.githubusercontent.com/Beebopcat/stolen-names/main/docs/media/01.webp" width="240" alt="Stolen Names screenshot"></a><br><b>Stolen Names</b><br>Some debts should never be inherited. A country has lost its names.<br>[Demo](https://beebopcat.github.io/stolen-names/) · [Source](https://github.com/Beebopcat/stolen-names) | <a href="https://github.com/Beebopcat/ocr-boxes"><img src="https://raw.githubusercontent.com/Beebopcat/ocr-boxes/main/docs/media/site-01.webp" width="240" alt="OCR Boxes screenshot"></a><br><b>OCR Boxes</b><br>Read visible text on your screen aloud with adjustable OCR boxes.<br>[Source](https://github.com/Beebopcat/ocr-boxes) | <a href="https://beebopcat.github.io/coloring-studio/"><img src="https://raw.githubusercontent.com/Beebopcat/coloring-studio/main/docs/media/01.webp" width="240" alt="Coloring Studio screenshot"></a><br><b>Coloring Studio</b><br>22 illustrated sheets, 60 colors and a compact paint box.<br>[Demo](https://beebopcat.github.io/coloring-studio/) · [Source](https://github.com/Beebopcat/coloring-studio) |
+
+The demos use sample data or run entirely in the browser; no live agents, private vaults, or personal task feeds are involved. Source for private projects is not published.
+
+## Windows tools & automation
+
+| Project | What it does | Links |
+| --- | --- | --- |
+| OCR Boxes | Read visible text on your screen aloud with adjustable OCR boxes. | [Source](https://github.com/Beebopcat/ocr-boxes) |
+| Kokoro Player | A local Windows text-to-speech reader. Repository has a README only so far; source publishing is in progress. | [Repo](https://github.com/Beebopcat/kokoro-player) |
+| Avatar Toolbox | A small Windows dashboard for launching your tools and checking their status. | [Source](https://github.com/Beebopcat/avatar-toolbox) |
+| Desktop Pixel Companions | A Windows desktop companion and accessibility project, shared as source. An "AI companion mode" is planned (roadmap in its README). | [Source](https://github.com/Beebopcat/desktop-pixel-companions) |
+| VM Clipboard Typer (new) | An AutoHotkey v2 utility that types your clipboard into VMware consoles that don't accept paste, one exact keystroke at a time. Built during cybersecurity lab work. | [Source](https://github.com/Beebopcat/vm-clipboard-typer) |
+| Cursor Studio | 24 themed Windows cursor sets, with a browser selector you can try live. | [Demo](https://beebopcat.github.io/cursor-studio/) · [Source](https://github.com/Beebopcat/cursor-studio) |
+
+## Browser games
+
+| Game | Tagline | Links |
+| --- | --- | --- |
+| The Nine Marches | Explore the Nine Marches, build a life and face the horrors beyond the lanterns. | [Play](https://caseyshingledecker.com/demos/top-secret/lantern-gate/) · [Source](https://github.com/Beebopcat/lantern-gate) |
+| Stolen Names | Some debts should never be inherited. A country has lost its names. | [Play](https://beebopcat.github.io/stolen-names/) · [Source](https://github.com/Beebopcat/stolen-names) |
+| Thirteenth Lantern | A town that calls disappearance kindness. 601 routes lead to twelve endings. | [Play](https://beebopcat.github.io/thirteenth-lantern/) · [Source](https://github.com/Beebopcat/thirteenth-lantern) |
+| Classic Solitaire | Draw one or three, undo a move and bring all four suits home. | [Play](https://beebopcat.github.io/classic-solitaire/) · [Source](https://github.com/Beebopcat/classic-solitaire) |
+| Hungry Moors | Two hikers, a full moon and a road they were warned never to leave. (Adult horror.) | [Play](https://beebopcat.github.io/hungry-moors/) · [Source](https://github.com/Beebopcat/hungry-moors) |
+| Coloring Studio | 22 illustrated sheets, 60 colors and a compact paint box. | [Play](https://beebopcat.github.io/coloring-studio/) · [Source](https://github.com/Beebopcat/coloring-studio) |
+| Aetherglass | An interactive hub for the restored realm: travel, talk and play. | [Play](https://beebopcat.github.io/aetherglass/) · [Source](https://github.com/Beebopcat/aetherglass) |
+
+## Labs & demos
+
+| Project | What it is | Links |
+| --- | --- | --- |
+| Public demos | Browser demos with fictional sample data: The Town (multi-agent studio, developed with Claude Code and ChatGPT 6 Astra; not a production control plane), the Permissions Lab, and a Natural Dialogue NPC stand-in. | [Hub](https://beebopcat.github.io/public-demos/) · [Town](https://beebopcat.github.io/public-demos/town/) · [Permissions Lab](https://beebopcat.github.io/public-demos/permissions/) · [Dialogue](https://beebopcat.github.io/public-demos/dialogue/) · [Source](https://github.com/Beebopcat/public-demos) |
+| Cybersecurity Journey Labs | Hands-on lab write-ups on the path toward a SOC analyst role. | [Source](https://github.com/Beebopcat/cybersecurity-journey-labs) |
+| Natural-Dialogue | Earlier Windows speech-tool source. | [Source](https://github.com/Beebopcat/Natural-Dialogue) |
+| Duskwood (playable) | Godot Duskwood prototype; the current candidate adds modeled furnishings to three interiors. Not a finished game. | [Source](https://github.com/Beebopcat/duskwood-playable) |
+| Aetherfall: The Sovereign Vanguard | A single-player PC 3D action RPG project for Unity 6, with gameplay in tested C# models. In development. | [Source](https://github.com/Beebopcat/aetherfall-sovereign-vanguard) |
 
 ## Current work
 
@@ -35,7 +72,7 @@ These browser demos use **fictional sample data**, not live agents, private vaul
 
 ### Linux Permissions Simulator
 
-[Source, examples, and tests](https://github.com/Beebopcat/cybersecurity-journey-labs/tree/main/projects/permissions-simulator) document the in-memory simulator and its ten automated tests. The playable sample is in the demo table above.
+[Source, examples, and tests](https://github.com/Beebopcat/cybersecurity-journey-labs/tree/main/projects/permissions-simulator) document the in-memory simulator and its ten automated tests. The playable sample is in [Labs & demos](#labs--demos) above.
 
 ### Aether Learning RPG — in development
 
@@ -47,7 +84,7 @@ These browser demos use **fictional sample data**, not live agents, private vaul
 
 ### AI-Agent Studio and private Agent Hub
 
-[Workflow design notes](https://caseyshingledecker.com/#ops-notes) describe how roles and review steps fit together. The private Hub stays private; the fictional Town demonstration is linked once above.
+[Workflow design notes](https://caseyshingledecker.com/#ops-notes) describe how roles and review steps fit together. The private Hub stays private; the fictional Town demonstration is linked in [Featured projects](#featured-projects).
 
 ### Digital products
 
@@ -75,11 +112,11 @@ Product descriptions, current versions, prices, and usage terms are maintained o
 
 - [Kanto Command](https://caseyshingledecker.com/#kanto): archived fan-inspired interface and learning-game work.
 - **The Tree:** an early experiment in specialized roles, staged reviews, and shared project context. Its standalone page has been retired; this historical record is retained.
-- [Natural-Dialogue](https://github.com/Beebopcat/Natural-Dialogue): earlier Windows speech-tool source. Its separate browser stand-in is in the demo table.
+- [Natural-Dialogue](https://github.com/Beebopcat/Natural-Dialogue): earlier Windows speech-tool source. Its separate browser stand-in is listed in [Labs & demos](#labs--demos).
 - [Creative production channel](https://www.youtube.com/@metapod.harden): video, animation, narration, audio, and design work.
 
 ## Experience that shapes the work
 
 [Public resume](https://caseyshingledecker.com/#resume) is the career record for technology support, research and operations, and teaching. The profile links to it instead of maintaining a second employment history. Latest credential: Chegg Skills Cybersecurity Professional Certificate (October 2026).
 
-*Updated October 20, 2026.*
+*Updated October 21, 2026.*
