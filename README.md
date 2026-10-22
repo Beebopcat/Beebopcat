@@ -2,11 +2,15 @@
 
 **IT support · Technical operations · AI agent workflows · Cybersecurity · Creative development**
 
-I build practical tools, troubleshoot problems, and turn what I learn into working projects.
+I solve technical problems, support people, and use AI-assisted workflows to build practical tools.
 
-My background includes Tier 1 and Tier 2 help desk support in K–12 education, Microsoft 365 and Google Workspace administration, account provisioning, device configuration, and secure assessment workstations, plus technical customer service, operations leadership, public-records research, and teaching in Japan. I completed the Target-sponsored Chegg Skills Cybersecurity Bootcamp (Network Administrator & Cybersecurity Analyst track); my training covers network security, incident response, vulnerability scanning, Windows and Linux log analysis, identity and access controls, and data protection. CompTIA A+, Network+, and Security+ are my certification study path.
+My background includes Tier 1 and Tier 2 help desk support in K–12 education, Windows and macOS troubleshooting, Microsoft 365 and Google Workspace administration, account provisioning, device configuration, and secure assessment workstations. At Target, I provide technology consultation and troubleshoot mobile devices, connectivity, and Zebra handheld/scanning systems. I also bring facilities leadership, confidential public-records research, and more than a decade of English tutoring and cross-cultural communication in Japan.
 
-Alongside that work, I develop Windows desktop applications, OCR and text-to-speech tools, AI operations workflows, and game systems using AI-assisted development. Most projects are at different stages of development; their verified capabilities and remaining work are documented on my website and GitHub. I'm interested in opportunities in technical operations, IT support, cybersecurity operations, and AI/automation, with a preference for remote work.
+I completed the Target-sponsored Chegg Skills Cybersecurity Bootcamp, earning the Cybersecurity Professional Certificate in October 2026 (Network Administrator & Cybersecurity Analyst track). My coursework covers incident response, vulnerability scanning, Windows and Linux log analysis, network security, identity and access controls, and data protection. CompTIA A+, Network+, and Security+ are my current certification study path.
+
+My independent portfolio includes Windows desktop utilities, multi-region OCR and text-to-speech, AI workflow prototypes, cybersecurity labs, and games in development. I use AI-assisted creation, hands-on configuration and script adaptation, debugging, documented review, and test verification. I document project scope, verification, and remaining work as I develop each tool.
+
+I’m seeking IT support, help desk, technical operations, and entry-level cybersecurity opportunities, with a preference for remote work.
 
 [Portfolio](https://caseyshingledecker.com/) · [LinkedIn](https://www.linkedin.com/in/caseyshingledecker/) · [GitHub](https://github.com/Beebopcat/) · [Detailed project list](PROJECTS.md)
 
