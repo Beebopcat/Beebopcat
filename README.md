@@ -52,8 +52,8 @@ The demos use sample data or run entirely in the browser; no live agents, privat
 | Public demos | Browser demos with fictional sample data: The Town (multi-agent studio, developed with Claude Code and ChatGPT 6 Astra; not a production control plane), the Permissions Lab, and a Natural Dialogue NPC stand-in. | [Hub](https://beebopcat.github.io/public-demos/) · [Town](https://beebopcat.github.io/public-demos/town/) · [Permissions Lab](https://beebopcat.github.io/public-demos/permissions/) · [Dialogue](https://beebopcat.github.io/public-demos/dialogue/) · [Source](https://github.com/Beebopcat/public-demos) |
 | Cybersecurity Journey Labs | Hands-on lab write-ups on the path toward a SOC analyst role. | [Source](https://github.com/Beebopcat/cybersecurity-journey-labs) |
 | Natural-Dialogue | Earlier Windows speech-tool source. | [Source](https://github.com/Beebopcat/Natural-Dialogue) |
-| Duskwood (playable) | Godot Duskwood prototype; the current candidate adds modeled furnishings to three interiors. Not a finished game. | [Source](https://github.com/Beebopcat/duskwood-playable) |
-| Aetherfall: The Sovereign Vanguard | A single-player PC 3D action RPG project for Unity 6, with gameplay in tested C# models. In development. | [Source](https://github.com/Beebopcat/aetherfall-sovereign-vanguard) |
+| Duskwood (playable) | Godot Duskwood prototype; the current candidate adds modeled furnishings to three interiors. Not a finished game. | Source is private |
+| Aetherfall: The Sovereign Vanguard | A single-player PC 3D action RPG project for Unity 6, with gameplay in tested C# models. In development. | Source is private |
 
 ## Current work
 
@@ -120,3 +120,5 @@ Product descriptions, current versions, prices, and usage terms are maintained o
 [Public resume](https://caseyshingledecker.com/#resume) is the career record for technology support, research and operations, and teaching. The profile links to it instead of maintaining a second employment history. Latest credential: Chegg Skills Cybersecurity Professional Certificate (October 2026).
 
 *Updated October 22, 2026.*
+
+Source code in my repositories is source-available under the View-and-Run License unless a repository says otherwise; see each repository's LICENSE.

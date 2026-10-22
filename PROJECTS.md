@@ -26,8 +26,8 @@ Detailed project list (updated October 21, 2026), followed by engineering record
 - **Public demos.** Fictional-sample-data browser demos: [Town](https://beebopcat.github.io/public-demos/town/), [Permissions Lab](https://beebopcat.github.io/public-demos/permissions/) and [Natural Dialogue stand-in](https://beebopcat.github.io/public-demos/dialogue/). [Hub](https://beebopcat.github.io/public-demos/) · [Source](https://github.com/Beebopcat/public-demos)
 - **Cybersecurity Journey Labs.** Documented lab work toward a SOC analyst role, starting with diagnosing an application failure from Windows Event Logs. [Source](https://github.com/Beebopcat/cybersecurity-journey-labs)
 - **Natural-Dialogue.** Earlier Windows speech-tool source. [Source](https://github.com/Beebopcat/Natural-Dialogue)
-- **Duskwood (playable).** Godot prototype; the current candidate is an interior detail pass, not a finished game. [Source](https://github.com/Beebopcat/duskwood-playable)
-- **Aetherfall: The Sovereign Vanguard.** Single-player PC 3D action RPG for Unity 6, in development; gameplay lives in tested C# models. [Source](https://github.com/Beebopcat/aetherfall-sovereign-vanguard)
+- **Duskwood (playable).** Godot prototype; the current candidate is an interior detail pass, not a finished game. Source is private.
+- **Aetherfall: The Sovereign Vanguard.** Single-player PC 3D action RPG for Unity 6, in development; gameplay lives in tested C# models. Source is private.
 
 # Engineering records
 
@@ -68,4 +68,4 @@ The recorded work checks project operations and refusal behavior, keeps the inst
 
 The asset-pipeline verification documentation and the two timestamped connector smoke reports were reviewed locally. Raw records include machine paths and remain local. Test figures above are a scrubbed summary; no production credentials, model weights, paid assets, private game source, or vault content are included.
 
-Existing product licenses and credits remain with their linked distributions. No new license is assigned to this repository by this update.
+Existing product licenses and credits remain with their linked distributions. Original source in this repository is covered by the View-and-Run License in LICENSE.
