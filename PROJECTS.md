@@ -1,15 +1,15 @@
 # Projects and engineering records
 
-Detailed project list (updated October 21, 2026), followed by engineering records. The [README](README.md) has the overview with screenshots. Only public repositories are linked; private projects are described on the [website](https://caseyshingledecker.com/).
+Detailed project list (updated October 22, 2026), followed by engineering records. The [README](README.md) has the overview with screenshots. Only public repositories are linked; private projects are described on the [website](https://caseyshingledecker.com/).
 
 ## Windows tools & automation
 
 - **OCR Boxes.** Windows OCR and text-to-speech: place up to four adjustable boxes over visible text and have it read aloud. Requires Windows 10/11 and AutoHotkey v2. How to use: run `OcrBoxes/OCR Boxes.ahk`, position and lock a box, press Play. [Source](https://github.com/Beebopcat/ocr-boxes)
-- **Kokoro Player.** A local Windows text-to-speech reader driven by a local Kokoro service. The repository has a README only so far; source publishing is in progress and there is no web demo. [Repo](https://github.com/Beebopcat/kokoro-player)
+- **Kokoro Player.** A local Windows text-to-speech player with sanitized application source published; requires a local voice service. No web demo. [Repo](https://github.com/Beebopcat/kokoro-player)
 - **Avatar Toolbox.** A small Windows dashboard for launching your tools and checking their status. [Source](https://github.com/Beebopcat/avatar-toolbox)
 - **Desktop Pixel Companions.** A Windows desktop companion and accessibility project, shared as source. A planned "AI companion mode" is described in the roadmap section of its README; it is not part of the public snapshot. [Source](https://github.com/Beebopcat/desktop-pixel-companions)
 - **VM Clipboard Typer (new).** An AutoHotkey v2 utility that types the clipboard into VMware consoles that don't accept paste, one exact keystroke at a time. Built during cybersecurity lab work. How to use: install AutoHotkey v2, run `VM Clipboard Typer.ahk`, copy text, focus the VM console, press F13. [Source](https://github.com/Beebopcat/vm-clipboard-typer)
-- **Cursor Studio.** 24 themed Windows 11 cursor sets in four styles each (3,264 files), a no-admin PowerShell installer, and a browser selector with a live hover test. The cursors have not yet been tested on a live Windows desktop. [Live selector](https://beebopcat.github.io/cursor-studio/) · [Source](https://github.com/Beebopcat/cursor-studio)
+- **Cursor Studio.** 24 themed Windows 11 cursor sets in seven styles each (168 styles; 5,712 cursor files), a no-admin PowerShell installer, and a browser selector with a live hover test. The cursors have not yet been tested on a live Windows desktop. [Live selector](https://beebopcat.github.io/cursor-studio/) · [Source](https://github.com/Beebopcat/cursor-studio)
 
 ## Browser games
 
