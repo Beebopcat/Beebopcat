@@ -6,7 +6,7 @@ I build practical tools, troubleshoot problems, and turn what I learn into worki
 
 My background includes Tier 1 and Tier 2 help desk support in K–12 education, Microsoft 365 and Google Workspace administration, account provisioning, device configuration, and secure assessment workstations, plus technical customer service, operations leadership, public-records research, and teaching in Japan. I completed the Target-sponsored Chegg Skills Cybersecurity Bootcamp (Network Administrator & Cybersecurity Analyst track); my training covers network security, incident response, vulnerability scanning, Windows and Linux log analysis, identity and access controls, and data protection. CompTIA A+, Network+, and Security+ are my certification study path.
 
-Alongside that work, I develop Windows desktop applications, OCR and text-to-speech tools, AI operations workflows, and C# / Unity game systems using AI-assisted development. Most projects are at different stages of development; their verified capabilities and remaining work are documented on my website and GitHub. I'm interested in opportunities in technical operations, IT support, cybersecurity operations, and AI/automation, with a preference for remote work.
+Alongside that work, I develop Windows desktop applications, OCR and text-to-speech tools, AI operations workflows, and game systems using AI-assisted development. Most projects are at different stages of development; their verified capabilities and remaining work are documented on my website and GitHub. I'm interested in opportunities in technical operations, IT support, cybersecurity operations, and AI/automation, with a preference for remote work.
 
 [Portfolio](https://caseyshingledecker.com/) · [LinkedIn](https://www.linkedin.com/in/caseyshingledecker/) · [GitHub](https://github.com/Beebopcat/) · [Detailed project list](PROJECTS.md)
 
@@ -27,7 +27,7 @@ The demos use sample data or run entirely in the browser; no live agents, privat
 | Project | What it does | Links |
 | --- | --- | --- |
 | OCR Boxes | Read visible text on your screen aloud with adjustable OCR boxes. | [Source](https://github.com/Beebopcat/ocr-boxes) |
-| Kokoro Player | A local Windows text-to-speech reader. Repository has a README only so far; source publishing is in progress. | [Repo](https://github.com/Beebopcat/kokoro-player) |
+| Kokoro Player | A local Windows text-to-speech player with sanitized application source published; requires a local voice service. | [Repo](https://github.com/Beebopcat/kokoro-player) |
 | Avatar Toolbox | A small Windows dashboard for launching your tools and checking their status. | [Source](https://github.com/Beebopcat/avatar-toolbox) |
 | Desktop Pixel Companions | A Windows desktop companion and accessibility project, shared as source. An "AI companion mode" is planned (roadmap in its README). | [Source](https://github.com/Beebopcat/desktop-pixel-companions) |
 | VM Clipboard Typer (new) | An AutoHotkey v2 utility that types your clipboard into VMware consoles that don't accept paste, one exact keystroke at a time. Built during cybersecurity lab work. | [Source](https://github.com/Beebopcat/vm-clipboard-typer) |
@@ -68,7 +68,7 @@ The demos use sample data or run entirely in the browser; no live agents, privat
 
 ### Cursor Studio
 
-[Cursor Studio](https://github.com/Beebopcat/cursor-studio) is a Python generator that renders 24 themed Windows 11 cursor sets in four styles each. Each style covers all 17 pointer roles as static `.cur` and animated `.ani` files: 3,264 files in total. The repository also includes a dark-mode PowerShell installer that needs no admin rights, a browser selector with a live hover test, and hand-off documentation. The included validator checks the structure of every cursor file, and the installer self-test exercises all 192 installs against a stand-in registry. The cursors have not yet been tested on a live Windows desktop. All artwork is drawn by code; it is an independent fan project with no affiliation with the referenced franchises.
+[Cursor Studio](https://github.com/Beebopcat/cursor-studio) is a Python generator that renders 24 themed Windows 11 cursor sets in seven styles each. Each style covers all 17 pointer roles as static `.cur` and animated `.ani` files: with generated cursor files. The repository also includes a dark-mode PowerShell installer that needs no admin rights, a browser selector with a live hover test, and hand-off documentation. The included validator checks the structure of every cursor file, and the installer self-test exercises the documented install cases against a stand-in registry. The cursors have not yet been tested on a live Windows desktop. All artwork is drawn by code; it is an independent fan project with no affiliation with the referenced franchises.
 
 ### Linux Permissions Simulator
 
@@ -119,4 +119,4 @@ Product descriptions, current versions, prices, and usage terms are maintained o
 
 [Public resume](https://caseyshingledecker.com/#resume) is the career record for technology support, research and operations, and teaching. The profile links to it instead of maintaining a second employment history. Latest credential: Chegg Skills Cybersecurity Professional Certificate (October 2026).
 
-*Updated October 21, 2026.*
+*Updated October 22, 2026.*
