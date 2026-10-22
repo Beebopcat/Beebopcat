@@ -68,7 +68,7 @@ The demos use sample data or run entirely in the browser; no live agents, privat
 
 ### Cursor Studio
 
-[Cursor Studio](https://github.com/Beebopcat/cursor-studio) is a Python generator that renders 24 themed Windows 11 cursor sets in seven styles each. Each style covers all 17 pointer roles as static `.cur` and animated `.ani` files: with generated cursor files. The repository also includes a dark-mode PowerShell installer that needs no admin rights, a browser selector with a live hover test, and hand-off documentation. The included validator checks the structure of every cursor file, and the installer self-test exercises the documented install cases against a stand-in registry. The cursors have not yet been tested on a live Windows desktop. All artwork is drawn by code; it is an independent fan project with no affiliation with the referenced franchises.
+[Cursor Studio](https://github.com/Beebopcat/cursor-studio) provides 24 themed Windows 11 cursor sets in seven styles each (168 styles). Each style covers all 17 pointer roles as static `.cur` and animated `.ani` files: 5,712 files in total. It includes a dark-mode Windows installer, a browser selector with a live hover test, and hand-off documentation. The repository documents structural file validation and installer checks against a registry stub; these checks were not rerun for this profile update. The cursors and WinForms installer have not yet been tested on a live Windows desktop. It combines procedural cursor artwork with Gemini-designed styles and is an independent fan project with no franchise affiliation.
 
 ### Linux Permissions Simulator
 
