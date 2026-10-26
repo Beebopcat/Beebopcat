@@ -1,6 +1,6 @@
 # Casey Shingledecker
 
-**IT Support & Automation | Cybersecurity certificate (Chegg Skills, Oct 2026), Security+ in progress**
+**IT Support & Automation | Cybersecurity certificate (Chegg Skills, Oct 2026), CompTIA A+ in progress**
 
 I troubleshoot, support people, and build small Windows automation tools and documented security labs.
 
@@ -8,7 +8,7 @@ I troubleshoot, support people, and build small Windows automation tools and doc
 
 My background includes Tier 1 and Tier 2 help desk support in K–12 education, Windows and macOS troubleshooting, Microsoft 365 and Google Workspace administration, account provisioning, device configuration, and secure assessment workstations. At Target, I provide technology consultation and troubleshoot mobile devices, connectivity, and Zebra handheld/scanning systems. I also bring facilities leadership, confidential public-records research, and more than a decade of English tutoring and cross-cultural communication in Japan.
 
-I completed the Target-sponsored Chegg Skills Cybersecurity Bootcamp, earning the Cybersecurity Professional Certificate in October 2026 (Network Administrator & Cybersecurity Analyst track). My coursework covers incident response, vulnerability scanning, Windows and Linux log analysis, network security, identity and access controls, and data protection. CompTIA A+, Network+, and Security+ are my current certification study path.
+I completed the Target-sponsored Chegg Skills Cybersecurity Bootcamp, earning the Cybersecurity Professional Certificate in October 2026 (Network Administrator & Cybersecurity Analyst track). My coursework covers incident response, vulnerability scanning, Windows and Linux log analysis, network security, identity and access controls, and data protection. I am studying for CompTIA A+ now, followed by Network+, Security+, CySA+ and Cisco CCNA.
 
 My independent portfolio includes cybersecurity labs, Windows desktop utilities, multi-region OCR and text-to-speech, AI workflow prototypes, and games in development. I use AI-assisted creation, hands-on configuration and script adaptation, debugging, documented review, and test verification. I document project scope, verification, and remaining work as I develop each tool.
 
