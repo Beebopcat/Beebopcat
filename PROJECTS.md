@@ -1,17 +1,21 @@
 # Projects and engineering records
 
-Detailed project list (updated October 22, 2026), followed by engineering records. The [README](README.md) has the overview with screenshots. Only public repositories are linked; private projects are described on the [website](https://caseyshingledecker.com/).
+Detailed project list (updated October 25, 2026), followed by engineering records. The [README](README.md) has the overview with screenshots. Only public repositories are linked; private projects are described on the [website](https://caseyshingledecker.com/).
 
-## Windows tools & automation
+## Security labs and demos
+
+- **Cybersecurity Journey Labs.** Documented lab work toward a SOC analyst role, starting with diagnosing an application failure from Windows Event Logs. [Source](https://github.com/Beebopcat/cybersecurity-journey-labs)
+- **Public demos.** Fictional-sample-data browser demos: [Town](https://beebopcat.github.io/public-demos/town/), [Permissions Lab](https://beebopcat.github.io/public-demos/permissions/) and [Natural Dialogue stand-in](https://beebopcat.github.io/public-demos/dialogue/). [Hub](https://beebopcat.github.io/public-demos/) · [Source](https://github.com/Beebopcat/public-demos)
+
+## IT and automation tools
 
 - **OCR Boxes.** Windows OCR and text-to-speech: place up to four adjustable boxes over visible text and have it read aloud. Requires Windows 10/11 and AutoHotkey v2. How to use: run `OcrBoxes/OCR Boxes.ahk`, position and lock a box, press Play. [Source](https://github.com/Beebopcat/ocr-boxes)
+- **VM Clipboard Typer (new).** An AutoHotkey v2 utility that types the clipboard into VMware consoles that don't accept paste, one exact keystroke at a time. Built during cybersecurity lab work. How to use: install AutoHotkey v2, run `VM Clipboard Typer.ahk`, copy text, focus the VM console, press F13. [Source](https://github.com/Beebopcat/vm-clipboard-typer)
 - **Kokoro Player.** A local Windows text-to-speech player with sanitized application source published; requires a local voice service. No web demo. [Repo](https://github.com/Beebopcat/kokoro-player)
 - **Avatar Toolbox.** A small Windows dashboard for launching your tools and checking their status. [Source](https://github.com/Beebopcat/avatar-toolbox)
-- **Desktop Pixel Companions.** A Windows desktop companion and accessibility project, shared as source. A planned "AI companion mode" is described in the roadmap section of its README; it is not part of the public snapshot. [Source](https://github.com/Beebopcat/desktop-pixel-companions)
-- **VM Clipboard Typer (new).** An AutoHotkey v2 utility that types the clipboard into VMware consoles that don't accept paste, one exact keystroke at a time. Built during cybersecurity lab work. How to use: install AutoHotkey v2, run `VM Clipboard Typer.ahk`, copy text, focus the VM console, press F13. [Source](https://github.com/Beebopcat/vm-clipboard-typer)
-- **Cursor Studio.** 24 themed Windows 11 cursor sets in seven styles each (168 styles; 5,712 cursor files), a no-admin PowerShell installer, and a browser selector with a live hover test. The cursors have not yet been tested on a live Windows desktop. [Live selector](https://beebopcat.github.io/cursor-studio/) · [Source](https://github.com/Beebopcat/cursor-studio)
+- **Natural-Dialogue.** Earlier Windows speech-tool source. [Source](https://github.com/Beebopcat/Natural-Dialogue)
 
-## Browser games
+## Creative projects
 
 - **The Nine Marches.** Explore the Nine Marches, build a life and face the horrors beyond the lanterns. [Play](https://caseyshingledecker.com/demos/top-secret/lantern-gate/) · [Source](https://github.com/Beebopcat/lantern-gate)
 - **Stolen Names.** Some debts should never be inherited. A country has lost its names. [Play](https://beebopcat.github.io/stolen-names/) · [Source](https://github.com/Beebopcat/stolen-names)
@@ -19,14 +23,7 @@ Detailed project list (updated October 22, 2026), followed by engineering record
 - **Classic Solitaire.** Draw one or three, undo a move and bring all four suits home. [Play](https://beebopcat.github.io/classic-solitaire/) · [Source](https://github.com/Beebopcat/classic-solitaire)
 - **Hungry Moors.** Two hikers, a full moon and a road they were warned never to leave (adult horror). [Play](https://beebopcat.github.io/hungry-moors/) · [Source](https://github.com/Beebopcat/hungry-moors)
 - **Coloring Studio.** 22 illustrated sheets, 60 colors and a compact paint box. [Play](https://beebopcat.github.io/coloring-studio/) · [Source](https://github.com/Beebopcat/coloring-studio)
-- **Aetherglass.** An interactive hub for the restored realm: travel, talk and play. [Play](https://beebopcat.github.io/aetherglass/) · [Source](https://github.com/Beebopcat/aetherglass)
-
-## Labs & demos
-
-- **Public demos.** Fictional-sample-data browser demos: [Town](https://beebopcat.github.io/public-demos/town/), [Permissions Lab](https://beebopcat.github.io/public-demos/permissions/) and [Natural Dialogue stand-in](https://beebopcat.github.io/public-demos/dialogue/). [Hub](https://beebopcat.github.io/public-demos/) · [Source](https://github.com/Beebopcat/public-demos)
-- **Cybersecurity Journey Labs.** Documented lab work toward a SOC analyst role, starting with diagnosing an application failure from Windows Event Logs. [Source](https://github.com/Beebopcat/cybersecurity-journey-labs)
-- **Natural-Dialogue.** Earlier Windows speech-tool source. [Source](https://github.com/Beebopcat/Natural-Dialogue)
-- **Godot village prototype (playable).** Godot prototype; the current candidate is an interior detail pass, not a finished game. Source is private.
+- **Godot village prototype.** Godot prototype; the current candidate is an interior detail pass, not a finished game. Source is private.
 - **Aetherfall: The Sovereign Vanguard.** Single-player PC 3D action RPG for Unity 6, in development; gameplay lives in tested C# models. Source is private.
 
 # Engineering records
